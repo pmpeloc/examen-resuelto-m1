@@ -1,0 +1,47 @@
+.container {
+  width: min(90%, 140rem);
+  margin: 0 auto;
+}
+
+.container-celeste {
+  display: flex;
+  justify-content: space-between;
+  gap: 78px;
+  margin-top: 84px;
+}
+
+.box-celeste {
+  background-color: #66c8ff;
+  height: 244px;
+  width: 100%;
+}
+
+.container-rosado {
+  display: flex;
+  justify-content: space-between;
+  gap: 47px;
+  margin-top: 84px;
+}
+
+.box-rosado {
+  background-color: #ff6666;
+  height: 244px;
+  width: 100%;
+}
+
+.container-azul {
+  background-color: #46599c;
+  height: 754px;
+  display: flex;
+  flex-direction: column;
+  gap: 74px;
+  align-items: center;
+  justify-content: center;
+  margin-block: 84px;
+}
+
+.box-naranja {
+  background-color: #de8080;
+  height: 244px;
+  width: 357px;
+}
